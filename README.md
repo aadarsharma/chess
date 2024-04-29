@@ -41,4 +41,4 @@ To run the application locally, follow these steps:
 
 ## Contributors
 
-- Aadarsh Sharma(https://github.com/aadarsharma)
+- [Aadarsh Sharma](https://github.com/aadarsharma)
