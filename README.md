@@ -1,4 +1,4 @@
-# Chess Web Application
+# Chess
 
 This is a web-based chess application built using web sockets for real-time gameplay. Players can connect to the application and play chess against each other, with moves being updated in real time.
 
