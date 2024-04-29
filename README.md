@@ -2,6 +2,30 @@
 
 This is a web-based chess application built using web sockets for real-time gameplay. Players can connect to the application and play chess against each other, with moves being updated in real time.
 
+## Screenshots
+
+### Consider the first tab as Player1(White) and second tab as Player2(Black)
+
+### Play Online
+![Play Online](./frontend/images/1.png)
+### Play Player1(White)
+![Play(White)](./frontend/images/2.png)
+- Only after another user comes online then it can played, the Player2(Black) also goes online
+### Move made by Player2(White)
+![Move(White)](./frontend/images/4.png)
+- Move made by white player
+### Move made by Player2(Black)
+![Move Updated on another users page](./frontend/images/5.png)
+- Move made by black player
+### Move made by Player2(Black) updated on Player1(White) page
+![Move](./frontend/images/6.png)
+- Move made by black player and that also gets updated on white players web page
+
+
+### System Architecture
+
+![System Architecture](./frontend/images/chess.png)
+
 ## Features
 
 - **Real-time Gameplay:** Play chess against other players with moves being updated in real time.
